@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendra-singh-jhala&show_icons=true&locale=en" alt="mahendra-singh-jhala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendra-singh-jhala&" alt="mahendra-singh-jhala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendra-singh-jhala&" alt="mahendra-singh-jhala"></p> 
